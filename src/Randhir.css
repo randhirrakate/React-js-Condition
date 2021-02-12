@@ -1,0 +1,15 @@
+.myButton
+{
+    margin-left: 35%;
+    margin-top: 100px;
+    color: red;
+    border: 2px solid black;
+}
+
+.MyDiv
+{
+    width: 400px;
+    height: 400px;
+    background-color: lightcoral;
+    margin: 100px;
+}
